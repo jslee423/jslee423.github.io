@@ -1,0 +1,78 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background: hsl(216, 12%, 8%);
+    color: white;
+    font-family: 'Overpass', sans-serif;
+}
+
+p {
+    font-size: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h3 {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.rating-box {
+    background: hsl(213, 19%, 18%);
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    border-radius: 10%;
+    margin-top: 13%;
+    padding-top: 2%;
+}
+
+.rating-btns {
+    padding-left: 7%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.rating-btns button {
+    text-align: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: hsl(213, 20%, 22%);
+    margin-left: 15px;
+    border: none;
+    color: white;
+}
+
+.submit-btn {
+    text-align: center;
+}
+
+.submit-btn button {
+    width: 270px;
+    height: 40px;
+    border-radius: 18px;
+    background: hsl(25, 97%, 53%);
+    color: white;
+    border: none;
+}
+
+.star {
+    background: hsl(213, 20%, 22%);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: 10%;
+}
+
+.star img {
+    padding-left: 28%;
+    padding-top: 28%;
+}
